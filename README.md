@@ -2,7 +2,7 @@
 
 A live pixel art visualization of Claude Code agents working in real time. Built for developers who want to show their AI workflow in an engaging, retro-game style.
 
-> Designed by **Vasyl Pavlyuchok** · [vasylpavlyuchok.com](https://vasylpavlyuchok.com)
+
 > Sprites by [pablodelucca](https://github.com/pablodelucca/pixel-agents) (MIT)
 
 ---
